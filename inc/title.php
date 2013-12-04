@@ -31,4 +31,7 @@ $pageDescription["anfahrt"]="Карта ";
 $title["about_us"]="За нас"; 
 $pageDescription["impressum"]="За нас"; 
 
+$title["muffins"]="muffins"; 
+$pageDescription["muffins"]="Мъфини"; 
+
 ?>

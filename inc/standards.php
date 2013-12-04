@@ -7,9 +7,10 @@ $i=basename($_SERVER['SCRIPT_FILENAME'],".php");
 
 <title><?php echo $title[$i]; ?></title>
 <link rel="stylesheet" type="text/css" media="screen" href="css/styles.css" />
-
+<link rel="stylesheet" type="text/css" media="screen" href="css/form-styles.css" />
 <script type="text/javascript" src="js/jquery.js"></script>
-
+<script type="text/javascript" src="js/domain.js"></script>
+<script type="text/javascript" src="js/formtools.js"></script>
 
 
 <?php if($i=="kontakt"||$i=="beratung") { ?>

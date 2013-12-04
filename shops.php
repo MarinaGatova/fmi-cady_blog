@@ -5,7 +5,7 @@
 				<div class="box">
 					<div>
 						<div class="body">
-							<h1>Rooms</h1>
+							<h1>Shop 1</h1>
 							<ul id="rooms">
 								<li>
 									<a href="rooms.html"><img src="images/first-class.jpg" alt="Img"></a>
@@ -17,7 +17,7 @@
 								</li>
 								<li>
 									<a href="rooms.html"><img src="images/deluxe.jpg" alt="Img"></a>
-									<h2><a href="rooms.html">Muffins 2</a></h2>
+									<h2><a href="rooms.html">Shop 2</a></h2>
 									<p>
 										Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis.
 									</p>
@@ -25,7 +25,7 @@
 								</li>
 								<li>
 									<a href="rooms.html"><img src="images/suite.jpg" alt="Img"></a>
-									<h2><a href="rooms.html">Muffins 3</a></h2>
+									<h2><a href="rooms.html">Shop 3</a></h2>
 									<p>
 										Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis.
 									</p>

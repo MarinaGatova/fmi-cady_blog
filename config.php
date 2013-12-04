@@ -13,5 +13,6 @@ $config['db'] = $mysql_config["name"];
 		die("<h1>ERROR:</h1> ".mysql_error());
 		exit;
 	}
- 
+ mysql_select_db($config['db']) or die("<h1>ERROR:</h1> ".mysql_error());
+ $mysqluser1 = mysql_fetch_array(mysql_query("SELECT * FROM `users`"));
  ?>
